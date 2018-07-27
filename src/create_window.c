@@ -4,8 +4,6 @@
 #include <GL/glu.h>
 #include <stdbool.h>
 #include "../libft/libft.h"
-
-#include "SDL/SDL.h"
 #include "SDL/SDL_image.h"
 #include "SDL/SDL_ttf.h"
 
